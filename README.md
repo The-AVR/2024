@@ -1,5 +1,5 @@
 ## 2024 Season Webpage (Find the gameplay video & official Game Manual here)
-https//theavr.org/2024
+https://theavr.org/2024
 
 ## AVR drone Build Guide
 https://the-avr.github.io/AVR-Docs/
