@@ -2,7 +2,7 @@
 
 These links will take you to the separate Onshape documents for the game fields and tech station. The Partial Game Field is for teams to be able to set up a simplified section of the court.  The Tech Station will enable teams to design the RVR Passenger Bay to align with the Sphero's coming off of the Tech Station.
 
-These links are view-only, which will still allow teams to get measurements. To download, you must have an (or sign up for a free) OnShape account, click the three lines for the menu in the top left and copy the workspace to your account.
+These links are view-only, which will still allow teams to get measurements. To download, you must have an (or sign up for a free) OnShape account. While logged in, click the three lines for the menu in the top left and copy the workspace to your account.
 
 Full Game Field:  https://cad.onshape.com/documents/3bce793beced5be8bd710759/w/000fe7a4c8b37786fbb84769/e/38f7f6586bfb1c094d391fcd?renderMode=0&uiState=66bb779b2183a368c4c6287e
 
