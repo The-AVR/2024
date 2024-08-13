@@ -1,3 +1,9 @@
+## AVR drone Build Guide
+https://the-avr.github.io/AVR-Docs/
+
+## DEXI drone Build Guide
+https://youtube.com/playlist?list=PLxQx8K02En6tmvVpP8kdBCflbKfnkGW8z&si=TsnlrO3rIsH6VJDx
+
 ## Game Field CAD Files
 
 These links will take you to the separate Onshape documents for the game fields and tech station. The Partial Game Field is for teams to be able to set up a simplified section of the court.  The Tech Station will enable teams to design the RVR Passenger Bay to align with the Sphero's coming off of the Tech Station.
